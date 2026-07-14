@@ -52,7 +52,7 @@ export function GlobalUptimeSection({
     }),
   );
 
-  // Helper to transform the data the same way it used to be in the page
+  // Fold the [previous, current] period metrics into a formatted value + trend per key
   function defineMetrics() {
     if (!metrics) return null;
     const _metrics = mapMetrics(metrics);
