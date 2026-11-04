@@ -21,7 +21,7 @@
     "bcryptjs": "3.0.3",
     "drizzle-orm": "0.45.4",
     "drizzle-zod": "0.8.3",
-    "zod": "4.1.13"
+    "zod": "4.6.6"
   },
   "devDependencies": {
     "@openstatus/tsconfig": "workspace:*",
