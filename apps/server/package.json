@@ -31,10 +31,10 @@
     "@t3-oss/env-core": "0.13.10",
     "@unkey/api": "2.2.0",
     "@upstash/qstash": "2.6.2",
-    "hono": "4.11.3",
-    "nanoid": "5.0.7",
+    "hono": "4.13.16",
+    "nanoid": "5.1.16",
     "percentile": "1.6.0",
-    "validator": "13.12.0",
+    "validator": "13.15.35",
     "zod": "4.1.13"
   },
   "devDependencies": {

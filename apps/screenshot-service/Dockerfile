@@ -1,6 +1,6 @@
 FROM node:22-bookworm as dep
 
-RUN npx -y playwright@1.46.0 install --with-deps
+RUN npx -y playwright@1.55.1 install --with-deps
 
 RUN npm install -g bun
 
